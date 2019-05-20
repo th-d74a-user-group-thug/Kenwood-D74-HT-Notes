@@ -47,7 +47,7 @@ Example Message
 *   [D-STAR Users / Last Heard](http://dstarusers.org/lastheard.php)
 *   [Amateur Radio Notes / Diving Into D-Star TH-D74A](https://amateurradionotes.com/th-d74.htm)
 *   [D-STAR 101](http://www.dstar101.com/basicoperation.htm)
-*   [D-STAR Quick Start Guide}(http://www.roblocher.com/whitepapers/dstar.html)
+*   [D-STAR Quick Start Guide](http://www.roblocher.com/whitepapers/dstar.html)
 *   [Newbie's Guide to D-STAR AU](http://www.dstar.org.au/wp-content/uploads/2015/02/Newbies-Guide-to-D-Star-V2.01.pdf)
 *   [WINLINK Global Radio Email](https://winlink.org)
 *   [APRS Digipeating and Path Selection](http://wa8lmf.net/DigiPaths/)
