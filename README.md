@@ -4,6 +4,41 @@ A collection of notes for setting up and using the Kenwood D74 HT in several mod
 
 ### Setup
 
+Bootstrap settings for a new THD74A Radio. Taken from [Don Arnold's TH-D74 Quick Start Setup video](https://youtu.be/aldEwRD4tYw).
+
+Menu 900 - backlight control, set on
+Menu 950 - time, set UTC (Pacific is -7) 
+Menu 920 - battery saver, set off
+Menu 921 - auto power off, set off
+Menu 404 - gps battery saver, set off
+Menu 500 - APRS my callsign, enter your callsign
+Menu 610 - DStar my callsign, enter your callsign
+Menu 611 - DStar TX message, enter something like "TH-D74" or "Oregon"
+Menu 506 - APRS Data Band, set B Band
+Menu 400 - Built in GPS, set on
+Menu 401 - My Position*, set lat long if operating with GPS off. This is optional.
+Menu 510 - APRS Beacon Method, select SmartBeaconing
+
+Turn on APRS
+1. 	Press Dual A/B on keypad and enter 144.390 for b band freq
+2.	Press Function and 5 key
+3.	Verify "APRS 12" is shown in display. If not repeat Funtion 5 step until APRS 12 is visible.
+4. 	Press keypad number 6 to turn beaconing on. You should see BCON just below APRS 12 in display.
+
+Backup and Restore
+*	Menu 800 - Config Backup, awill save to the SD card (requires optional SD card, duh)
+*	Menu 810 - Config Restore, you can choose your saved config and it will load.
+
+Other Important Menu Items
+*	Menu 112 - mic gain
+*	Menu 200 - Memory Channel List
+*	Menu 201 - Group Name
+*	Menu 700 - FM Radio
+*	Menu 710 - FM Radio List
+*	Menu 930-936 Bluetooth items
+*	Menu 910-916 - Audio Settings
+*	Menu 940 & 941 Customizable PF keys
+
 ### D-STAR
 
 ### APRS
