@@ -11,7 +11,7 @@ A collection of notes for setting up and using the Kenwood D74 HT in several mod
 	* [Other Menu Items](#other-menu-items)
 - [D-STAR](#d-star)
 - [APRS](#aprs)
-	* [Sending Texts][#sending-texts)
+	* [Sending Texts](#sending-texts)
 - [Frequency Reference](#frequency-reference)
 	* [Portland Amateur Radio Club](#portland-amateur-radio-club)
 	* [International APRS](#international-aprs)
