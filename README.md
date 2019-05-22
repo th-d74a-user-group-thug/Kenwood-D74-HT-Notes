@@ -5,7 +5,8 @@ A collection of notes for setting up and using the Kenwood D74 HT in several mod
 ## TOC
 
 - [Setup](#Setup)
-	* [Bootstap Settings]
+	* [Bootstrap Settings](#bootstrap-settings)
+	* [Turn on APRS](#turn-on-aprs)
 
 ### Setup
 
