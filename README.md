@@ -19,6 +19,7 @@ Bootstrap settings for a new THD74A Radio. Taken from [Don Arnold's TH-D74 Quick
 | 400 | Built in GPS | set on |
 | 401 | My Position* | set lat long |
 | 510 | APRS Beacon Method | select SmartBeaconing |
+\* Optional setting if Built in GPS is set to off.
 
 Turn on APRS
 1. 	Press Dual A/B on keypad and enter 144.390 for b band freq
