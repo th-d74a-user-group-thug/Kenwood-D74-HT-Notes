@@ -4,7 +4,9 @@ A collection of notes for setting up and using the Kenwood D74 HT in several mod
 
 ### Setup
 
-Bootstrap settings for a new THD74A Radio. Taken from [Don Arnold's TH-D74 Quick Start Setup video](https://youtu.be/aldEwRD4tYw).
+#### Bootstrap Settings
+
+Taken from [Don Arnold's TH-D74 Quick Start Setup video](https://youtu.be/aldEwRD4tYw).
 
 | Menu | Configuration | Setting |
 |---|---|---|
@@ -22,17 +24,17 @@ Bootstrap settings for a new THD74A Radio. Taken from [Don Arnold's TH-D74 Quick
 
 \* Optional setting if Built in GPS is set to off.
 
-Turn on APRS
+#### Turn on APRS
 1. 	Press Dual A/B on keypad and enter 144.390 for b band freq
 2.	Press Function and 5 key
 3.	Verify "APRS 12" is shown in display. If not repeat Funtion 5 step until APRS 12 is visible.
 4. 	Press keypad number 6 to turn beaconing on. You should see BCON just below APRS 12 in display.
 
-Backup and Restore
+#### Backup and Restore
 *	Menu 800 - Config Backup, awill save to the SD card (requires optional SD card, duh)
 *	Menu 810 - Config Restore, you can choose your saved config and it will load.
 
-Other Important Menu Items
+#### Other Important Menu Items
 *	Menu 112 - mic gain
 *	Menu 200 - Memory Channel List
 *	Menu 201 - Group Name
