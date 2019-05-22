@@ -108,4 +108,5 @@ Example Message
 *   [Newbie's Guide to D-STAR AU](http://www.dstar.org.au/wp-content/uploads/2015/02/Newbies-Guide-to-D-Star-V2.01.pdf)
 *   [WINLINK Global Radio Email](https://winlink.org)
 *   [APRS Digipeating and Path Selection](http://wa8lmf.net/DigiPaths/)
+*   [DSTAR Web Calculator](http://www.dstarinfo.com/Calculator/DSTAR%20Web%20Calculator.aspx)
  
