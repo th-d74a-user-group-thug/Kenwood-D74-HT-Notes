@@ -7,6 +7,15 @@ A collection of notes for setting up and using the Kenwood D74 HT in several mod
 - [Setup](#Setup)
 	* [Bootstrap Settings](#bootstrap-settings)
 	* [Turn on APRS](#turn-on-aprs)
+	* [Backup and Restore](#backup-and-restore)
+	* [Other Menu Items](#other-menu-items)
+- [D-STAR](#d-star)
+- [APRS](#aprs)
+	* [Sending Texts][#sending-texts)
+- [Frequency Reference](#frequency-reference)
+	* [Portland Amateur Radio Club](#portland-amateur-radio-club)
+	* [International APRS](#international-aprs)
+- [Reference Links](#reference-links)	
 
 ### Setup
 
@@ -40,7 +49,7 @@ Taken from [Don Arnold's TH-D74 Quick Start Setup video](https://youtu.be/aldEwR
 *	Menu 800 - Config Backup, awill save to the SD card (requires optional SD card, duh)
 *	Menu 810 - Config Restore, you can choose your saved config and it will load.
 
-#### Other Important Menu Items
+#### Other Menu Items
 *	Menu 112 - mic gain
 *	Menu 200 - Memory Channel List
 *	Menu 201 - Group Name
@@ -72,7 +81,7 @@ Example Message
 *   144.910 MHz (packet) - The long-running packet node has been replaced with WinLink on the same frequency, connect to W7LT-10. Located on Mt Scott.
 *   145.730 MHz (simplex) - This is the traditional PARC home for simplex voice activities.
 
-#### APRS
+#### International APRS
 
 *   144.390 MHz -- Colombia, Chile, Indonesia, Malaysia, North America, Thailand
 *   144.575 MHz -- New Zealand
