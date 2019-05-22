@@ -2,6 +2,11 @@
 
 A collection of notes for setting up and using the Kenwood D74 HT in several modes.
 
+## TOC
+
+- [Setup](#Setup)
+	* [Bootstap Settings]
+
 ### Setup
 
 #### Bootstrap Settings
