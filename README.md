@@ -61,6 +61,8 @@ Taken from [Don Arnold's TH-D74 Quick Start Setup video](https://youtu.be/aldEwR
 
 ### D-STAR
 
+Content Forthcoming
+
 ### APRS
 
 #### Sending Texts
