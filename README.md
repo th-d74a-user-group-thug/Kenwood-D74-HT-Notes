@@ -65,7 +65,12 @@ Content Forthcoming
 
 ### APRS
 
-#### Sending Texts
+#### Sending Texts to APRS Radios
+1. Press Function | New MSG
+2. To Field: <ReceipientCallsign>
+3. Message Field: Body of Message
+
+#### Sending Texts to Cell Phones
 1. Press Function | New MSG
 2. To Field: SMSGTE
 3. Message Field: @<PhoneNumberOfRecepient> Body of Message
