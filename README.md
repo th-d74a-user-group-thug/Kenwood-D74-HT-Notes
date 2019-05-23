@@ -11,8 +11,8 @@ A collection of notes for setting up and using the Kenwood D74 HT in several mod
 	* [Other Menu Items](#other-menu-items)
 - [D-STAR](#d-star)
 - [APRS](#aprs)
-	* [Sending Messages to APRS Radios](#sending-messages-
-	* [Sending Messages to Cell Phones](#sending-texts-to-cell-phones)
+	* [Sending Messages to APRS Radios](#sending-messages-to-aprs-radios)
+	* [Sending Messages to Cell Phones](#sending-messages-to-cell-phones)
 - [Frequency Reference](#frequency-reference)
 	* [Portland Amateur Radio Club](#portland-amateur-radio-club)
 	* [International APRS](#international-aprs)
@@ -66,15 +66,15 @@ Content Forthcoming
 
 ### APRS
 
-#### Sending Texts to APRS Radios
+#### Sending Messages to APRS Radios
 1. Press Function | New MSG
 2. To Field: \<ReceipientCallsign\>
 3. Message Field: Body of Message
 
-#### Sending Texts to Cell Phones
+#### Sending Messages to Cell Phones
 1. Press Function | New MSG
 2. To Field: SMSGTE
-3. Message Field: @]\<PhoneNumberOfRecepient\> Body of Message
+3. Message Field: @\<PhoneNumberOfRecepient\> Body of Message
 
 Example Message
 @555-555-5555 This is a test. 
