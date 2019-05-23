@@ -16,7 +16,10 @@ A collection of notes for setting up and using the Kenwood D74 HT in several mod
 - [Frequency Reference](#frequency-reference)
 	* [Portland Amateur Radio Club](#portland-amateur-radio-club)
 	* [International APRS](#international-aprs)
-- [Reference Links](#reference-links)	
+- [Reference Links](#reference-links)
+	* [General](#general)
+	* [APRS](#aprs)
+	* [DSTAR](#dstar)
 
 ### Setup
 
@@ -104,15 +107,21 @@ Example Message
 *   432.500 MHz  -- Europe (UHF)
 
 ### Reference Links
+
+#### General
 *   [Portland Amateur Radio Club](http://www.w7lt.org)
 *   [Ham Radio School / I Got My License, Now What?](https://hamradioschool.com/i-got-my-license-now-what/)
+*   [WINLINK Global Radio Email](https://winlink.org)
+
+#### APRS
+*   [APRS Digipeating and Path Selection](http://wa8lmf.net/DigiPaths/)
+
+#### DSTAR
 *   [D-STAR Info](http://www.dstarinfo.com/home.aspx)
 *   [D-STAR Users / Last Heard](http://dstarusers.org/lastheard.php)
 *   [Amateur Radio Notes / Diving Into D-Star TH-D74A](https://amateurradionotes.com/th-d74.htm)
 *   [D-STAR 101](http://www.dstar101.com/basicoperation.htm)
 *   [D-STAR Quick Start Guide](http://www.roblocher.com/whitepapers/dstar.html)
 *   [Newbie's Guide to D-STAR AU](http://www.dstar.org.au/wp-content/uploads/2015/02/Newbies-Guide-to-D-Star-V2.01.pdf)
-*   [WINLINK Global Radio Email](https://winlink.org)
-*   [APRS Digipeating and Path Selection](http://wa8lmf.net/DigiPaths/)
 *   [DSTAR Web Calculator](http://www.dstarinfo.com/Calculator/DSTAR%20Web%20Calculator.aspx)
  
