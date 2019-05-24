@@ -6,7 +6,7 @@
 	* [Backup and Restore](#backup-and-restore)
 	* [Other Menu Items](#other-menu-items)
 - [D-STAR](#d-star)
-	* [Digital Repeaters](#Digital Repeaters)
+	* [Digital Repeaters](#digital-repeaters)
 - [APRS](#aprs)
 	* [Sending Messages to APRS Radios](#sending-messages-to-aprs-radios)
 	* [Sending Messages to Cell Phones](#sending-messages-to-cell-phones)
