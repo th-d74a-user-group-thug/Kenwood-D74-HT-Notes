@@ -53,7 +53,7 @@ To enter each menu press the Menu key and then enter the three digit menu code i
 *	Menu 810 - Config Restore, you can choose your saved config and it will load.
 
 #### Other Menu Items
-*	Menu 112 - mic gain
+*	Menu 112 - Mic Gain
 *	Menu 200 - Memory Channel List
 *	Menu 201 - Group Name
 *	Menu 700 - FM Radio
@@ -68,7 +68,9 @@ To enter each menu press the Menu key and then enter the three digit menu code i
 
 The TH-D74A can connect to DSTAR repeaters to route voice and data traffic around the country and the rest of the world. Before connecting to other DSTAR users the TH-D74 must first connect to a local DSTAR Repeater. A list of the available D-STAR repeaters is maintained by [D-STAR Info site](http://www.dstarinfo.com/repeater-list.aspx).
 
+##### Connecting to a Digital Repeater
 
+If a repeater list is already loaded on your radio you can discover nearby repeaters by pressing and holding the down navigation control button. After a moment a screen will appeard. Use the navigation control to select "Find Nearby Repeaters. Once you've selected the desireable repeater...
 
 ### APRS
 
