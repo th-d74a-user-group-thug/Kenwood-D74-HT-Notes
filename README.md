@@ -6,6 +6,7 @@
 	* [Backup and Restore](#backup-and-restore)
 	* [Other Menu Items](#other-menu-items)
 - [D-STAR](#d-star)
+	* [Digital Repeaters](#Digital Repeaters)
 - [APRS](#aprs)
 	* [Sending Messages to APRS Radios](#sending-messages-to-aprs-radios)
 	* [Sending Messages to Cell Phones](#sending-messages-to-cell-phones)
@@ -22,6 +23,8 @@
 #### Bootstrap Settings
 
 Taken from [Don Arnold's TH-D74 Quick Start Setup video](https://youtu.be/aldEwRD4tYw).
+
+To enter each menu press the Menu key and then enter the three digit menu code in the table below. Use the Mode and A/B buttons to select and confirm configuration settings. Text may be entered into form fields using the numeric keypad or the radio's encoder dial. Once the configuration is set press the PTT (Push To Talk) key on the side of the radio to return to the home screen before navigating to the next menu item.
 
 | Menu | Configuration | Setting |
 |---|---|---|
@@ -61,7 +64,11 @@ Taken from [Don Arnold's TH-D74 Quick Start Setup video](https://youtu.be/aldEwR
 
 ### D-STAR
 
-Content Forthcoming
+#### Digital Repeaters
+
+The TH-D74A can connect to DSTAR repeaters to route voice and data traffic around the country and the rest of the world. Before connecting to other DSTAR users the TH-D74 must first connect to a local DSTAR Repeater. A list of the available D-STAR repeaters is maintained by [D-STAR Info site](http://www.dstarinfo.com/repeater-list.aspx).
+
+
 
 ### APRS
 
