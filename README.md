@@ -1,4 +1,4 @@
-## TOC
+## THUG (TH[-D74] User Group) Notes
 
 - [Setup](#Setup)
 	* [Bootstrap Settings](#bootstrap-settings)
