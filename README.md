@@ -33,8 +33,8 @@ To enter each menu press the Menu key and then enter the three digit menu code i
 | 920 | battery saver | set off |
 | 921 | auto power off | set off |
 | 404 | GPS battery saver | set off |
-| 610 | DStar my callsign | enter your callsign |
-| 611 | DStar TX message | enter something like "TH-D74" or "Oregon" |
+| 610 | D-Star my callsign | enter your callsign |
+| 611 | D-Star TX message | enter something like "TH-D74" or "Oregon" |
 | 506 | APRS Data Band | set B Band |
 | 400 | Built in GPS | set on |
 | 401 | My Position* | set lat long |
