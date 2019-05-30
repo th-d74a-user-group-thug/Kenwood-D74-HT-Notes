@@ -24,7 +24,12 @@
 
 Taken from [Don Arnold's TH-D74 Quick Start Setup video](https://youtu.be/aldEwRD4tYw).
 
-To enter each menu press the Menu key and then enter the three digit menu code in the table below. Use the Mode and A/B buttons to select and confirm configuration settings. Text may be entered into form fields using the numeric keypad or the radio's encoder dial. Once the configuration is set press the PTT (Push To Talk) key on the side of the radio to return to the home screen before navigating to the next menu item.
+To enter each menu,
+
+1. Press the Menu key and then enter the three digit menu code in the table below.
+2. Use the Arrow, Mode, and A/B buttons to select and confirm configuration settings.
+	* Text may be entered into form fields using the numeric keypad or the radio's encoder dial.
+3. Once the configuration is set press the PTT (Push To Talk) key on the side of the radio to return to the home screen before navigating to the next menu item.
 
 | Menu | Configuration | Setting |
 |---|---|---|
