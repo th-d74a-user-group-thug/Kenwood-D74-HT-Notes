@@ -34,12 +34,12 @@ To enter each menu,
 | Menu | Configuration | Setting |
 |---|---|---|
 | 900 | backlight control | set on |
-| 950 | time | set UTC (Pacific is -7) | 
+| 950 | time | set UTC (Pacific is -7) |
 | 920 | battery saver | set off |
 | 921 | auto power off | set off |
-| 404 | gps battery saver | set off |
-| 610 | DStar my callsign | enter your callsign |
-| 611 | DStar TX message | enter something like "TH-D74" or "Oregon" |
+| 404 | GPS battery saver | set off |
+| 610 | D-Star my callsign | enter your callsign |
+| 611 | D-Star TX message | enter something like "TH-D74" or "Oregon" |
 | 506 | APRS Data Band | set B Band |
 | 400 | Built in GPS | set on |
 | 401 | My Position* | set lat long |
@@ -48,13 +48,13 @@ To enter each menu,
 \* Optional setting if Built in GPS is set to off.
 
 #### Turn on APRS
-1. 	Press Dual A/B on keypad and enter 144.390 for b band freq
+1. 	Press Dual A/B on keypad and enter 144.390 for b band frequency
 2.	Press Function and 5 key
-3.	Verify "APRS 12" is shown in display. If not repeat Funtion 5 step until APRS 12 is visible.
+3.	Verify "APRS 12" is shown in display. If not repeat Function 5 step until APRS 12 is visible.
 4. 	Press keypad number 6 to turn beaconing on. You should see BCON just below APRS 12 in display.
 
 #### Backup and Restore
-*	Menu 800 - Config Backup, awill save to the SD card (requires optional SD card, duh)
+*	Menu 800 - Config Backup, will save to the SD card (requires optional SD card, duh)
 *	Menu 810 - Config Restore, you can choose your saved config and it will load.
 
 #### Other Menu Items
@@ -75,7 +75,7 @@ The TH-D74A can connect to DSTAR repeaters to route voice and data traffic aroun
 
 ##### Connecting to a Digital Repeater
 
-If a repeater list is already loaded on your radio you can discover nearby repeaters by pressing and holding the down navigation control button. After a moment a screen will appeard. Use the navigation control to select "Find Nearby Repeaters. Once you've selected the desireable repeater...
+If a repeater list is already loaded on your radio you can discover nearby repeaters by pressing and holding the down navigation control button. After a moment a screen will appear. Use the navigation control to select "Find Nearby Repeaters. Once you've selected the desired repeater...
 
 ### APRS
 
@@ -90,7 +90,7 @@ If a repeater list is already loaded on your radio you can discover nearby repea
 3. Message Field: @\<PhoneNumberOfRecepient\> Body of Message
 
 Example Message
-@555-555-5555 This is a test. 
+@555-555-5555 This is a test.
 
 ### Frequency Reference
 
@@ -134,4 +134,3 @@ Example Message
 *   [D-STAR Quick Start Guide](http://www.roblocher.com/whitepapers/dstar.html)
 *   [Newbie's Guide to D-STAR AU](http://www.dstar.org.au/wp-content/uploads/2015/02/Newbies-Guide-to-D-Star-V2.01.pdf)
 *   [DSTAR Web Calculator](http://www.dstarinfo.com/Calculator/DSTAR%20Web%20Calculator.aspx)
- 
