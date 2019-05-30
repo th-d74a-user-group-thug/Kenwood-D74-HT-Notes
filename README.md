@@ -31,6 +31,7 @@ To enter each menu,
 	* Text may be entered into form fields using the numeric keypad or the radio's encoder dial.
 3. Once the configuration is set press the PTT (Push To Talk) key on the side of the radio to return to the home screen before navigating to the next menu item.
 
+
 | Menu | Configuration | Setting |
 |---|---|---|
 | 900 | backlight control | set on |
