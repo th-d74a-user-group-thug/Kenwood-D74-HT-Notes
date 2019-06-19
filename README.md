@@ -13,6 +13,7 @@
 - [Frequency Reference](#frequency-reference)
 	* [Portland Amateur Radio Club](#portland-amateur-radio-club)
 	* [International APRS](#international-aprs)
+	* [Weather Radio](#weather-radio-(united-states))
 - [Reference Links](#reference-links)
 	* [General](#general)
 	* [APRS](#aprs)
@@ -49,7 +50,7 @@ To enter each menu,
 \* Optional setting if Built in GPS is set to off.
 
 #### Turn on APRS
-1. 	Press Dual A/B on keypad and enter 144.390 for b band frequency
+1. 	Press Dual A/B on keypad and enter 144.390 (North America) for b band frequency
 2.	Press Function and 5 key
 3.	Verify "APRS 12" is shown in display. If not repeat Function 5 step until APRS 12 is visible.
 4. 	Press keypad number 6 to turn beaconing on. You should see BCON just below APRS 12 in display.
@@ -116,6 +117,15 @@ Example Message
 *   145.825 MHz -- International Space Station
 *   430.5125 MHz -- Netherlands (UHF)
 *   432.500 MHz  -- Europe (UHF)
+
+#### Weather Radio (United States)
+
+From the [NOAA Homepage](https://www.nws.noaa.gov/nwr/index.php), broadcasts are found in the VHF public service band at these seven frequencies (MHz): 162.400, 162.425, 162.450, 162.475, 162.500, 162.525, 162.550.
+
+Detailed geographic weather station information (with frequencies),
+
+*	[County Coverage by State and Marine Area](https://www.nws.noaa.gov/nwr/coverage/county_coverage.html)
+*	[Map of NOAA WRX Stations, CONUS, AK, HI](https://www.nws.noaa.gov/nwr/resources/NWR_poster.pdf)
 
 ### Reference Links
 
