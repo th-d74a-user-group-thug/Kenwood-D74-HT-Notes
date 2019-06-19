@@ -13,7 +13,7 @@
 - [Frequency Reference](#frequency-reference)
 	* [Portland Amateur Radio Club](#portland-amateur-radio-club)
 	* [International APRS](#international-aprs)
-	* [Weather Radio](#weather-radio-(united-states))
+	* [Weather Radio](#united-states-weather-radio)
 - [Reference Links](#reference-links)
 	* [General](#general)
 	* [APRS](#aprs)
@@ -118,7 +118,7 @@ Example Message
 *   430.5125 MHz -- Netherlands (UHF)
 *   432.500 MHz  -- Europe (UHF)
 
-#### Weather Radio (United States)
+#### United States Weather Radio
 
 From the [NOAA Homepage](https://www.nws.noaa.gov/nwr/index.php), broadcasts are found in the VHF public service band at these seven frequencies (MHz): 162.400, 162.425, 162.450, 162.475, 162.500, 162.525, 162.550.
 
