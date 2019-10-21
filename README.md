@@ -11,8 +11,9 @@
 	* [Sending Messages to APRS Radios](#sending-messages-to-aprs-radios)
 	* [Sending Messages to Cell Phones](#sending-messages-to-cell-phones)
 - [Frequency Reference](#frequency-reference)
-	* [Portland Amateur Radio Club](#portland-amateur-radio-club)
 	* [International APRS](#international-aprs)
+	* [Portland Amateur Radio Club](#portland-amateur-radio-club)
+	* [Scouts BSA](#scouts-bsa)
 	* [Weather Radio](#united-states-weather-radio)
 - [Reference Links](#reference-links)
 	* [General](#general)
@@ -96,13 +97,6 @@ Example Message
 
 ### Frequency Reference
 
-#### Portland Amateur Radio Club
-
-*   146.840 MHz (-600) - The club's main repeater, located in Washington, can reach as far south as Eugene, West to Astoria, East to Hood River and North to Longview.
-*   146.940 MHz (-600) - This repeater is located on Mt. Scott. Coverage into the Portland metro area, and South to Salem, is excellent. Currently off the air for repairs.
-*   147.180 MHz (+600) 103.5 Hz CTCSS - This repeater located on Mt. Scott and running a Yaesu System Fusion repeater in AMS mode to provide functionality to both analog(with a tone of 103.5) and digital users.
-*   144.910 MHz (packet) - The long-running packet node has been replaced with WinLink on the same frequency, connect to W7LT-10. Located on Mt Scott.
-*   145.730 MHz (simplex) - This is the traditional PARC home for simplex voice activities.
 
 #### International APRS
 
@@ -117,6 +111,20 @@ Example Message
 *   145.825 MHz -- International Space Station
 *   430.5125 MHz -- Netherlands (UHF)
 *   432.500 MHz  -- Europe (UHF)
+
+#### Portland Amateur Radio Club
+
+*   146.840 MHz (-600) - The club's main repeater, located in Washington, can reach as far south as Eugene, West to Astoria, East to Hood River and North to Longview.
+*   146.940 MHz (-600) - This repeater is located on Mt. Scott. Coverage into the Portland metro area, and South to Salem, is excellent. Currently off the air for repairs.
+*   147.180 MHz (+600) 103.5 Hz CTCSS - This repeater located on Mt. Scott and running a Yaesu System Fusion repeater in AMS mode to provide functionality to both analog(with a tone of 103.5) and digital users.
+*   144.910 MHz (packet) - The long-running packet node has been replaced with WinLink on the same frequency, connect to W7LT-10. Located on Mt Scott.
+*   145.730 MHz (simplex) - This is the traditional PARC home for simplex voice activities.
+
+#### Scouts BSA
+
+The following frequencies are unofficial but are used by scouters at events with some predicability. But do note, these are subject to change without notice at any time.
+
+*		445.550 MHz - Heard being used at Camp Meriwether in Oregon.
 
 #### United States Weather Radio
 
