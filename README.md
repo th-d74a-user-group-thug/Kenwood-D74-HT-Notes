@@ -79,7 +79,8 @@ The TH-D74A can connect to DSTAR repeaters to route voice and data traffic aroun
 
 #### Digital Voice
 
-The nation-wide emerging DV simplex channels are:
+The nation-wide emerging DV simplex channels are
+
 *	DSIM 2M: 145.670
 *	DSIM 70: 446.225
 *	DSIM 23: 1298.000
