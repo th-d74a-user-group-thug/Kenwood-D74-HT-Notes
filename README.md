@@ -7,6 +7,7 @@
 	* [Other Menu Items](#other-menu-items)
 - [D-STAR](#d-star)
 	* [Digital Repeaters](#digital-repeaters)
+	* [Digital Voice](#digital-voice)
 - [APRS](#aprs)
 	* [Sending Messages to APRS Radios](#sending-messages-to-aprs-radios)
 	* [Sending Messages to Cell Phones](#sending-messages-to-cell-phones)
@@ -75,6 +76,13 @@ To enter each menu,
 #### Digital Repeaters
 
 The TH-D74A can connect to DSTAR repeaters to route voice and data traffic around the country and the rest of the world. Before connecting to other DSTAR users the TH-D74 must first connect to a local DSTAR Repeater. A list of the available D-STAR repeaters is maintained by [D-STAR Info site](http://www.dstarinfo.com/repeater-list.aspx).
+
+#### Digital Voice
+
+The nation-wide emerging DV simplex channels are:
+*	DSIM 2M: 145.670
+*	DSIM 70: 446.225
+*	DSIM 23: 1298.000
 
 ##### Connecting to a Digital Repeater
 
