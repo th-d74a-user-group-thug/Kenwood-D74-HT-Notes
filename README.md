@@ -1,25 +1,26 @@
 ## THUG (TH[-D74] User Group) Notes
 
 - [Setup](#Setup)
-	* [Bootstrap Settings](#bootstrap-settings)
-	* [Turn on APRS](#turn-on-aprs)
-	* [Backup and Restore](#backup-and-restore)
-	* [Other Menu Items](#other-menu-items)
+    * [Bootstrap Settings](#bootstrap-settings)
+    * [Turn on APRS](#turn-on-aprs)
+    * [Backup and Restore](#backup-and-restore)
+    * [Other Menu Items](#other-menu-items)
 - [D-STAR](#d-star)
-	* [Digital Repeaters](#digital-repeaters)
-	* [Digital Voice](#digital-voice)
+    * [Digital Repeaters](#digital-repeaters)
+    * [Digital Voice](#digital-voice)
 - [APRS](#aprs)
-	* [Sending Messages to APRS Radios](#sending-messages-to-aprs-radios)
-	* [Sending Messages to Cell Phones](#sending-messages-to-cell-phones)
+    * [Sending Messages to APRS Radios](#sending-messages-to-aprs-radios)
+    * [Sending Messages to Cell Phones](#sending-messages-to-cell-phones)
+    * [Requesting Weather via APRS](#requesting-weather-via-aprs)
 - [Frequency Reference](#frequency-reference)
-	* [International APRS](#international-aprs)
-	* [Portland Amateur Radio Club](#portland-amateur-radio-club)
-	* [Scouts BSA](#scouts-bsa)
-	* [Weather Radio](#united-states-weather-radio)
+    * [International APRS](#international-aprs)
+    * [Portland Amateur Radio Club](#portland-amateur-radio-club)
+    * [Scouts BSA](#scouts-bsa)
+    * [Weather Radio](#united-states-weather-radio)
 - [Reference Links](#reference-links)
-	* [General](#general)
-	* [APRS](#aprs)
-	* [DSTAR](#dstar)
+    * [General](#general)
+    * [APRS](#aprs)
+    * [DSTAR](#dstar)
 
 ### Setup
 
@@ -31,7 +32,7 @@ To enter each menu,
 
 1. Press the Menu key and then enter the three digit menu code in the table below.
 2. Use the Arrow, Mode, and A/B buttons to select and confirm configuration settings.
-	* Text may be entered into form fields using the numeric keypad or the radio's encoder dial.
+    * Text may be entered into form fields using the numeric keypad or the radio's encoder dial.
 3. Once the configuration is set press the PTT (Push To Talk) key on the side of the radio to return to the home screen before navigating to the next menu item.
 
 
@@ -52,24 +53,24 @@ To enter each menu,
 \* Optional setting if Built in GPS is set to off.
 
 #### Turn on APRS
-1. 	Press Dual A/B on keypad and enter 144.390 (North America) for b band frequency
-2.	Press Function and 5 key
-3.	Verify "APRS 12" is shown in display. If not repeat Function 5 step until APRS 12 is visible.
-4. 	Press keypad number 6 to turn beaconing on. You should see BCON just below APRS 12 in display.
+1.  Press Dual A/B on keypad and enter 144.390 (North America) for b band frequency
+2.  Press Function and 5 key
+3.  Verify "APRS 12" is shown in display. If not repeat Function 5 step until APRS 12 is visible.
+4.  Press keypad number 6 to turn beaconing on. You should see BCON just below APRS 12 in display.
 
 #### Backup and Restore
-*	Menu 800 - Config Backup, will save to the SD card (requires optional SD card, duh)
-*	Menu 810 - Config Restore, you can choose your saved config and it will load.
+*   Menu 800 - Config Backup, will save to the SD card (requires optional SD card, duh)
+*   Menu 810 - Config Restore, you can choose your saved config and it will load.
 
 #### Other Menu Items
-*	Menu 112 - Mic Gain
-*	Menu 200 - Memory Channel List
-*	Menu 201 - Group Name
-*	Menu 700 - FM Radio
-*	Menu 710 - FM Radio List
-*	Menu 930-936 Bluetooth items
-*	Menu 910-916 - Audio Settings
-*	Menu 940 & 941 Customizable PF keys
+*   Menu 112 - Mic Gain
+*   Menu 200 - Memory Channel List
+*   Menu 201 - Group Name
+*   Menu 700 - FM Radio
+*   Menu 710 - FM Radio List
+*   Menu 930-936 Bluetooth items
+*   Menu 910-916 - Audio Settings
+*   Menu 940 & 941 Customizable PF keys
 
 ### D-STAR
 
@@ -77,17 +78,17 @@ To enter each menu,
 
 The TH-D74A can connect to DSTAR repeaters to route voice and data traffic around the country and the rest of the world. Before connecting to other DSTAR users the TH-D74 must first connect to a local DSTAR Repeater. A list of the available D-STAR repeaters is maintained by [D-STAR Info site](http://www.dstarinfo.com/repeater-list.aspx).
 
+##### Connecting to a Digital Repeater
+
+If a repeater list is already loaded on your radio you can discover nearby repeaters by pressing and holding the down navigation control button. After a moment a screen will appear. Use the navigation control to select "Find Nearby Repeaters. Once you've selected the desired repeater...
+
 #### Digital Voice
 
 The nation-wide emerging DV simplex channels are
 
-*	DSIM 2M: 145.670
-*	DSIM 70: 446.225
-*	DSIM 23: 1298.000
-
-##### Connecting to a Digital Repeater
-
-If a repeater list is already loaded on your radio you can discover nearby repeaters by pressing and holding the down navigation control button. After a moment a screen will appear. Use the navigation control to select "Find Nearby Repeaters. Once you've selected the desired repeater...
+*   DSIM 2M: 145.670
+*   DSIM 70: 446.225
+*   DSIM 23: 1298.000
 
 ### APRS
 
@@ -104,8 +105,12 @@ If a repeater list is already loaded on your radio you can discover nearby repea
 Example Message
 @555-555-5555 This is a test.
 
-### Frequency Reference
+#### Requesting Weather via APRS
+1. Press Function -> New MSG
+2. To Field: WXBOT
+3. Messafe Field: "TODAY" or "TOMORROW" or "FRIDAY" (no quotes)
 
+### Frequency Reference
 
 #### International APRS
 
@@ -133,7 +138,7 @@ Example Message
 
 The following frequencies are unofficial but are used by scouters at events with some predicability. But do note, these are subject to change without notice at any time.
 
-*		445.550 MHz - Heard being used at Camp Meriwether in Oregon.
+*       445.550 MHz - Heard being used at Camp Meriwether in Oregon.
 
 #### United States Weather Radio
 
@@ -141,8 +146,8 @@ From the [NOAA Homepage](https://www.nws.noaa.gov/nwr/index.php), broadcasts are
 
 Detailed geographic weather station information (with frequencies),
 
-*	[County Coverage by State and Marine Area](https://www.nws.noaa.gov/nwr/coverage/county_coverage.html)
-*	[Map of NOAA WRX Stations, CONUS, AK, HI](https://www.nws.noaa.gov/nwr/resources/NWR_poster.pdf)
+*   [County Coverage by State and Marine Area](https://www.nws.noaa.gov/nwr/coverage/county_coverage.html)
+*   [Map of NOAA WRX Stations, CONUS, AK, HI](https://www.nws.noaa.gov/nwr/resources/NWR_poster.pdf)
 
 ### Reference Links
 
