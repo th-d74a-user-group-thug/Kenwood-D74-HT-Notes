@@ -106,9 +106,12 @@ Example Message
 @555-555-5555 This is a test.
 
 #### Requesting Weather via APRS
+
+The requesting APRS device sends programmed location. For devices with GPS enabled the WX forecast will be for the local area.
+
 1. Press Function -> New MSG
 2. To Field: WXBOT
-3. Messafe Field: "TODAY" or "TOMORROW" or "FRIDAY" (no quotes)
+3. Message Field: "TODAY" or "TOMORROW" or "FRIDAY" (no quotes)
 
 ### Frequency Reference
 
